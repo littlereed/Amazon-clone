@@ -44,6 +44,7 @@ function Checkout() {
                width={1020}
                height={250}
                objectFit='contain'
+               alt=''
              />
            </div>
 

@@ -18,7 +18,7 @@ function ProductFeed({products}) {
             
           ))}
 
-          <img className='md:col-span-full' 
+          <image className='md:col-span-full' 
             src='https://links.papareact.com/dyz' 
             alt='' 
           />
