@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 function success() {
 
   const router = useRouter();
+  
     return (
         <div className='bg-green-100 h-screen'>
           <Header />
